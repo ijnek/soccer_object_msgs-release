@@ -2,8 +2,8 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>soccer_vision_msgs</name>
-  <version>0.0.1</version>
-  <description>TODO: Package description</description>
+  <version>0.0.2</version>
+  <description>Package providing interfaces to be used in a soccer domain.</description>
   <maintainer email="kenjibrameld@gmail.com">ijnek</maintainer>
   <license>Apache License 2.0</license>
 

@@ -4,4 +4,4 @@
 
 Package containing ROS2 interfaces specific to Soccer.
 
-Documentation can be found on [ReadTheDocs](https://soccer-interfaces.readthedocs.io/)
+For more information, see our [Documentation](https://soccer-interfaces.readthedocs.io/)
