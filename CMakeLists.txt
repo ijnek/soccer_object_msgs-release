@@ -28,6 +28,8 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/FieldLineArray.msg"
   "msg/Robot.msg"
   "msg/RobotArray.msg"
+  "msg/Flag.msg"
+  "msg/FlagArray.msg"
   DEPENDENCIES std_msgs geometry_msgs
 )
 
