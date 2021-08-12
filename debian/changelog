@@ -1,9 +1,0 @@
-ros-galactic-soccer-vision-msgs (0.0.2-1focal) focal; urgency=high
-
-  * add flag msg to soccer_vision_msgs
-  * update package description
-  * Contributors: Kenji Brameld
-
- -- ijnek <kenjibrameld@gmail.com>  Fri, 16 Jul 2021 15:00:00 -0000
-
-
