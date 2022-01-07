@@ -1,6 +1,12 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Changelog for package soccer_vision_msgs
+Changelog for package soccer_object_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1.0.1 (2022-01-07)
+------------------
+* rename soccer_vision_msgs to soccer_object_msgs
+* move everything up a repo
+* Contributors: Kenji Brameld
 
 1.0.0 (2021-08-15)
 ------------------
