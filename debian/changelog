@@ -1,0 +1,30 @@
+ros-foxy-soccer-object-msgs (1.0.1-1focal) focal; urgency=high
+
+  * rename soccer_vision_msgs to soccer_object_msgs
+  * move everything up a repo
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Thu, 06 Jan 2022 15:00:00 -0000
+
+ros-foxy-soccer-object-msgs (1.0.0-1focal) focal; urgency=high
+
+  * bumping version to 1.0.0 to reach a mature state and follow semver's specifications
+
+ -- ijnek <kenjibrameld@gmail.com>  Sat, 14 Aug 2021 15:00:00 -0000
+
+ros-foxy-soccer-object-msgs (0.0.3-1focal) focal; urgency=high
+
+  * add Ball msg
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Wed, 11 Aug 2021 15:00:00 -0000
+
+ros-foxy-soccer-object-msgs (0.0.2-1focal) focal; urgency=high
+
+  * add flag msg to soccer_vision_msgs
+  * update package description
+  * Contributors: Kenji Brameld
+
+ -- ijnek <kenjibrameld@gmail.com>  Fri, 16 Jul 2021 15:00:00 -0000
+
+
